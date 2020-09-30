@@ -1,8 +1,7 @@
 """
-Program: hw2.py
+Program: KNN_MNIST.py
 Author: Collin Tinen
 Description: Reads data from the MNIST dataset and uses the KNN algorithm to predict the labels of the test set.
-Slate Folder: Tinen0516
 """
 
 import pandas as pd
